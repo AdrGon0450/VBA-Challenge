@@ -36,5 +36,5 @@ I did make modifications to the sample script to match my use case
               OpenPrice = Cells(i + 1, "C").Value
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-The script included does not provide accurate calculations, and returns incorrect results.
+My created script in this repo does not provide accurate calculations, and returns incorrect results.
 I tried.
